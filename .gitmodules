@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ctmcmove"]
 	path = ctmcmove
 	url = https://github.com/cran/ctmcmove
-	shallow = true
-	registered = true
 [submodule "rwc"]
 	path = rwc
 	url = https://github.com/cran/rwc
-	shallow = true
-	registered = true
